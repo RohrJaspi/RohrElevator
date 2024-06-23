@@ -1,0 +1,5 @@
+name: DeathElevator
+version: '1.0'
+main: dev.rohrjaspi.elevator.Main
+api-version: '1.20'
+authors: [rohrjaspi]

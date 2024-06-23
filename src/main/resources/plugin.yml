@@ -1,0 +1,5 @@
+name: RohrElevator
+version: '${project.version}'
+main: dev.rohrjaspi.elevator.Main
+api-version: '1.20'
+authors: [rohrjaspi]
